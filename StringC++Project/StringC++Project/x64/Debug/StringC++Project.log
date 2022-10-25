@@ -1,0 +1,4 @@
+﻿  String.cpp
+C:\Users\User\Desktop\String\StringC++Project\StringC++Project\String.cpp(130,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\Desktop\String\StringC++Project\StringC++Project\String.cpp(113): warning C4715: 'Database::SignUp': not all control paths return a value
+  StringC++Project.vcxproj -> C:\Users\User\Desktop\String\StringC++Project\x64\Debug\StringC++Project.exe
